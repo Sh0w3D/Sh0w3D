@@ -10,11 +10,10 @@ I'm Kamil and I live in Poland 🇵🇱
 
 Technologies I learn and use:
 <table>
-  <tr>
-    <td>![C#](https://cdn-icons-png.flaticon.com/32/6132/6132221.png)</td>
-    <td>![PostgreSql](https://cdn-icons-png.flaticon.com/32/5968/5968342.png)</td>
-  </tr>
-
- </table>
+<tr>
+<td><img src="https://cdn-icons-png.flaticon.com/32/6132/6132221.png" alt="C#"></td>
+<td><img src="https://cdn-icons-png.flaticon.com/32/5968/5968342.png" alt="postgres"</td>
+</tr>
+</table>
 
 The fastest way to contact me is [Telegram](https://t.me/kamiloberaj)
