@@ -15,6 +15,7 @@ Technologies I learn and use:
 <td><img src="https://cdn-icons-png.flaticon.com/32/5968/5968342.png" alt="postgres"</td>
 <td><img src="https://cdn-icons-png.flaticon.com/32/5968/5968332.png" alt="php"></td>
 <td><img src="https://cdn-icons-png.flaticon.com/32/5968/5968350.png" alt="python"></td>
+<td><img src="https://cdn-icons-png.flaticon.com/32/5968/5968853.png" alt="GitHub and Gitlab"></td>
 </tr>
 </table>
 
