@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-`Console.WriteLine("Welcome!");`
+`Console.WriteLine("Hello, World!");`
 
 I'm Kamil and I live in Poland 🇵🇱
 
