@@ -20,3 +20,4 @@ Technologies I learn and use:
 </table>
 
 The fastest way to contact me is [Telegram](https://t.me/kamiloberaj)
+Check out my [<img src="https://cdn-icons-png.flaticon.com/32/5968/5968853.png">GitLab profile](https://gitlab.phon31x.com/Sh0w3D) 
